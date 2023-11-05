@@ -54,4 +54,4 @@ The API will return a JSON response with the word and its definition.
    
 3. The API currently does a case-sensitive search. Ensure you input the word with the correct casing.
 
-5
+
